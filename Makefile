@@ -1,0 +1,2 @@
+activate:
+	. \avenv\Scripts\Activate
